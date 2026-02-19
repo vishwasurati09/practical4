@@ -49,7 +49,7 @@ practical4/
 1. Open **Practical3** folder.  
 2. Run Python files using:
 ```bash
-python right_half_pyramid.py
+python right_pyramid.py
 python full_pyramid.py
 python odd_numbers.py
 
