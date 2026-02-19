@@ -12,7 +12,7 @@
 The objectives of this practical are:  
 1. Learn to create and display **patterns** using Python loops.  
 2. Generate a **right half pyramid** and a **full (reverse) pyramid** pattern.  
-3. Find **even numbers between 1 to 100** and calculate minimum, maximum, and sum.  
+3. Find **odd numbers between 1 to 100** and calculate minimum, maximum, and sum.  
 4. Practice organizing files in **folders** and pushing code & outputs to **GitHub**.  
 
 ---
