@@ -26,9 +26,9 @@ practical4/
 │ └── even_numbers.py
 │
 └── screenshots/ # Output screenshots
-├── right_half_pyramid_output.png
-├── full_pyramid_output.png
-└── even_numbers_output.png
+├── right_pyramid.png
+├── full_pyramid.png
+└── odd_numbers.png
 
 ---
 
@@ -40,7 +40,7 @@ practical4/
 ### 2. Full Pyramid Output
 ![Full Pyramid](screenshots/full_pyramid.png)
 
-### 3. Even Numbers Output
+### 3. Odd Numbers Output
 ![Even Numbers](screenshots/odd_numbers.png)
 
 ---
@@ -51,6 +51,6 @@ practical4/
 ```bash
 python right_half_pyramid.py
 python full_pyramid.py
-python even_numbers.py
+python odd_numbers.py
 
 
