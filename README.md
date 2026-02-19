@@ -35,7 +35,7 @@ practical4/
 ## 🖼️ Screenshots
 
 ### 1. Right Half Pyramid Output
-![Right Half Pyramid](screenshots/right_half_pyramid_output.png)
+![Right Half Pyramid](screenshots/right_pyramid.png)
 
 ### 2. Full Pyramid Output
 ![Full Pyramid](screenshots/full_pyramid_output.png)
