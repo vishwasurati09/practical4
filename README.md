@@ -38,10 +38,10 @@ practical4/
 ![Right Half Pyramid](screenshots/right_pyramid.png)
 
 ### 2. Full Pyramid Output
-![Full Pyramid](screenshots/full_pyramid_output.png)
+![Full Pyramid](screenshots/full_pyramid.png)
 
 ### 3. Even Numbers Output
-![Even Numbers](screenshots/even_numbers_output.png)
+![Even Numbers](screenshots/odd_numbers.png)
 
 ---
 
